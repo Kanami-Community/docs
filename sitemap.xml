@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://kanami-community.github.io/docs/commands/Info/avatar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/info</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Base</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Info</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/addrole</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/ban</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/clear</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/kick</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/embedsay</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/lockdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/removerole</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/say</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/timedlockdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/unban</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Administration/unlockdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Info/botinfo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Info/changelog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Info/serverinfo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Info/userinfo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Base/help</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other/bug</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other/8ball</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other/donaters</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other/donate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Other/suggest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/dog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/cat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/hug</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/kiss</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/kitsune</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/neko</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/nekogif</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/nom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/pat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/poke</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kanami-community.github.io/docs/commands/Reactions/tickle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
